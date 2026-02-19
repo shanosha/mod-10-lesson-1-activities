@@ -1,5 +1,5 @@
-import Form from "./componenets/Form/Form"
-import PostFetcher from "./componenets/PostFetcher/PostFetcher";
+import Form from "./components/Form/Form"
+import PostFetcher from "./components/PostFetcher/PostFetcher";
 
 const sectionStyle = "bg-white p-4 shadow-xl rounded my-8";
 
